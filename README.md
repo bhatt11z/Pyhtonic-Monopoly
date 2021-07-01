@@ -14,4 +14,4 @@ Harold's company has just started a new Real Estate Investment division to provi
 ![](https://raw.githubusercontent.com/bhatt11z/Pythonic-Monopoly/main/Screen%20shots/Screenshot%202021-07-01%20at%202.43.58%20PM.png)
 
 ## Dashboard
-![](https://utoronto.bootcampcontent.com/utoronto-bootcamp/utor-tor-fin-pt-11-2020-u-c/-/raw/master/Homework/06-PyViz/Instructions/Images/dashboard-demo.gif)
+![](https://raw.githubusercontent.com/bhatt11z/Pythonic-Monopoly/main/Screen%20shots/dashboard-demo.gif)
